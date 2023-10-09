@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hello{
+    color: #6F7C83;
+}
+
+#nav-1{
+    background-color: black;
+    color: white;
+    width: 100%;
+    font-size: 12px;
+    
+}
+
+#logo{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+#ul-1{
+    width: 100%;
+}
+
+li{
+    display: inline;
+    list-style-type: none;
+    padding-right: 10px;
+}
+
+#all{
+    height: 5vh;
+    position: relative;
+    left: 4px;
+    border-radius: 10%;
+}
+
+#search_icon{
+    background-color: #FBBE67;
+    height: 4vh;
+    position: relative;
+    top: 11px;
+    right: 5px;
+    border-radius: 10%;
+}
+
+#search_field{
+    width: 55vw;
+    height: 4vh;
+}
+
+#nav-2{
+    background-color: #243040;
+    color: white;
+    font-weight: 500;
+    width: 100%;
+}
+
+#ul-2{
+    width: 100vw;
+}
+
+#prime_day{
+    display: inline-block;
+}
+#container{
+    background-image: url(assets/background\ picture.png);
+    background-size:cover ;
+    height: 90vh;
+    position: relative;
+    width: 96vw;
+    left: 20px;
+}
+#container-right-arrow{
+    position: absolute;
+    right: 10px;
+    top: 101px;
+}
+#container-left-arrow{
+    position: absolute;
+    left: 10px;
+    top: 101px;
+}
+
+.picturetext{
+    color: #838383;
+    font-size: 13px;
+}
+
+#div1{
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    top: 272px;
+    left: 15px;
+}
+#div1 h2{
+    padding: 15px;
+    font-size: 22px;
+}
+#div1 div{
+    display: inline-block;
+}
+
+#div2{
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    top: 265px;
+    left: 20px;
+}
+
+#div2 h2{
+    padding: 15px;
+    font-size: 22px;
+}
+#div2 div{
+    display: inline-block;
+}
+
+#div3{
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    top: 275px;
+    left:30px;
+}
+#div3 h2{
+    padding-top: 30px;
+    padding-left: 10px;
+    font-size: 22px;
+}
+#div3 div{
+    display: inline-block;
+}
+
+#div4{
+    height: 350px;
+    width: 350px;
+    display: inline-block;
+    position: relative;
+    top: 291px;
+    left: 35px;
+}
+
+a{
+    text-decoration: none;
+    color: #77A2AB;
+    position: relative;
+    left: 10px;
+}
+
+#inside-container{
+    background-color: white;
+    padding: 10px;
+}
+
+input[type=submit]{
+    background-color: #FED813;
+    width: 80%;
+    border: 0;
+    padding: 5px;
+    border-radius: 0.3rem ;
+}
+
+#laptop{
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+}
+
+.align{
+    text-align: center;
+}
+#d3img{
+    position: relative;
+    left: 30px;
+}
+
+
+/* .container{
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    top: 270px;
+    left: 15px;
+
+} */
+/* #section{
+    display: flex;
+    position: absolute;
+    top: 55%;
+    left: 20%;
+} */
