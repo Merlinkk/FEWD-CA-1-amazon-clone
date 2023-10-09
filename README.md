@@ -1,4 +1,6 @@
-# amazon-clone-boilerplate
+# amazon-clone
+
+#done by Anshul Kashyap
 
 ## Here is the expected output
 
